@@ -14,5 +14,5 @@ Reviewed the Outcomes of Kickstarter Campaigns for Plays
 ###Challenge
 In this initial analysis we looked at the Outcomes Based on Goals and Outcomes Based on Launch Date.  While the data below provides some interesting insight, it is recommended to conduct further analysis to determine if there are other factors that relate to a successful show.
 
-![OutcomesBasedonGoals.png](https://github.com/ljkirchman/kickstarter-analysis/OutcomesBasedonGoals.png)
-![Kickstarter_OutcomesBasedonLaunchDate.png](https://github.com/ljkirchman/kickstarter-analysis/Kickstarter_OutcomesBasedonLaunchDate.png)
+![OutcomesBasedonGoals.png](https://github.com/ljkirchman/kickstarter-analysis/blob/master/OutcomesBasedonGoals.png)
+![Kickstarter_OutcomesBasedonLaunchDate.png](https://github.com/ljkirchman/kickstarter-analysis/blob/master/Kickstarter_OutcomesBasedonLaunchDate.png)
